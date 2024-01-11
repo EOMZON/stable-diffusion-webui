@@ -37,3 +37,13 @@ notification.mp3
 /node_modules
 /package-lock.json
 /.coverage*
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# End of https://github.com/github/gitignore/blob/master/Python.gitignore
