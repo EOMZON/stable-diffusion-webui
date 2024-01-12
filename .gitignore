@@ -47,3 +47,5 @@ ehthumbs.db
 Thumbs.db
 
 # End of https://github.com/github/gitignore/blob/master/Python.gitignore
+
+.cache
